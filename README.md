@@ -4,12 +4,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kongesque/Kongesque/output/github-snake.svg" />
 </picture>
 
+<br><br>
+
 <samp>
 
-hey, i'm kongesque
+\> hey, i'm **kongesque**
 
-software engineer • creative thinker • problem solver • daydreamer
+\> software engineer • creative thinker • problem solver • daydreamer
 
-see more at [kongesque.com](https://www.kongesque.com)
+\> see more at [kongesque.com](https://www.kongesque.com)
 
 </samp>
