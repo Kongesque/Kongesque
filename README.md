@@ -6,7 +6,7 @@
 
 <samp>
 
-\> hey, i'm **kong**. i like teal.
+\> hey, i'm **kong**. 
 
 \> more at [kongesque.com](https://www.kongesque.com)
 
